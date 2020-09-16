@@ -1,0 +1,14 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Hvo mating"
+      href: hvo_mating.html
+    - text: "agl manhattan"
+      href: manhattan_agl.html
+    - text: "crispr manhattan"
+      href: manhattan_crisprs.html
+    - text: "transposases manhattan"
+      href: manhattan_transposases.html
